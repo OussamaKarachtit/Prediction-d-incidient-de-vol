@@ -1,0 +1,10 @@
+id_incident,quartier,type_vol,valeur_bien,etat,timestamp
+1613,Maarif,Vol de Vélo,37069,Résolu,2024-12-12 17:21:05
+8913,Gauthier,Vol de Vélo,84365,En Cours,2024-12-12 17:21:07
+7498,Gauthier,Vol de Marchandises,29677,Résolu,2024-12-12 17:21:09
+3977,Ain Diab,Vol de Vélo,12782,Résolu,2024-12-12 17:21:11
+4173,Gauthier,Vol de Marchandises,85992,En Cours,2024-12-12 17:21:13
+9851,Ain Diab,Vol de Vélo,95621,En Cours,2024-12-12 17:21:15
+5368,Gauthier,Vol de Voiture,81327,Résolu,2024-12-12 17:21:17
+6685,Maarif,Vol de Voiture,43992,En Cours,2024-12-12 17:21:19
+1148,Hay Hassani,Vol de Marchandises,62206,En Cours,2024-12-12 17:21:21

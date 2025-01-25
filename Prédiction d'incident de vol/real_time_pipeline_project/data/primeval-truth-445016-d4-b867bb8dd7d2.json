@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "primeval-truth-445016-d4",
+  "private_key_id": "b867bb8dd7d21044742102f7642836e8d0193659",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCEwCzh22kXFu7q\nutI20zif7+UczP9gWXGY3lOWRtKmVFFlTs0rr24LmCi1QV9JEWKBWiIX97rWN+vp\nUDy0mSvSRxdoaveKwHByMFKoRzYJTYzzU8GlTNW5mpzXcivqVDxPLDs3Y5/f/Zb7\npVgzHkMd3QVwbcVU7e/ur6MFMxzB47J5DWWo80cbeWfPmp61xKJR3uCfl5tkY0uW\nFFdayyFdHSvFDrrMyx3Vq2Ezwhc9d11C8eWcJs8R89+gL0QKJKuobLxGCOhwx5Fb\nR0O39rlz0wD72qHOYz4KN/fQ1aizIF3Q2p2Qa5b1hhh4ChoZue5uO4H7d1NQZUJ4\n253IjEIRAgMBAAECggEAAixx7mijVqFoGW0FmIlqXPCHO5EhziJDq02NbWF9fRge\nBd7pM+gdFgFauPZUOD2e1NiTfKeecGNsqLCQuMZgJ9TUUu4L2HXNeJRgS9wyy/Jb\nzbTLqDuYMoVIQI23gF0uFn/ctK0cKWafsjbkgNsMwT6LQSzvbtLtbAqklBeoMjSr\nmYFxL+Gk01jAQ5E+BzvUxDgmx+Nu+gqP2+Egv+vZWVaMSZg8c9CF2OTAb0dHP+83\nnUOz2nJbaK6V8E7TTFmDqyyLPgRXi3HqlnqQMX094yMr4pjIHktMiJZrMeEPMonI\nxh0pqo7zTvRCV94dpBCHlD8j9G8Gy0GD4qtyxaKWHQKBgQC5V7tR5yzFye88n93c\nkt+D+TWuMr4i4afdkVK+MX0ns3eTjUiA9Q6NhrILODHSUM+aeNFNAkk0jFTw8j8y\n4k5Iqc+ojsGe17ZFeaQPKa3iGTSds3kvt+NvFiguNiZpP1257WAwo21Uu3guVchM\nL4VwLhn44Ofwgn8a6r85HQ+gWwKBgQC3W8wiRTospijl75+saKC8bU1W8eE7gYQK\nIEVRV2LgPBMK24jRRaeJPjelsc9uD0T/Vky4wyKQfi3KQILyFMwCbkdEDwRiPXZ/\nZzeiF7WErA+AL3VcvfVqJy7wV9DlXtGRFdSn3sowD7FdtmRonXODBJg8ZZHQDqX5\nqxHKfSXzAwKBgQCB49sSPinhf3CbEwqgL4pXagpVx5f6yBwlqlfLlNE6RorxrFz4\ni0UkqBYUyNAZraqgfjVoe8aj/gj1R0BFP9ZPFDrEzS8iS9igfewc+D+1Kab3MjUm\n3P+V9Xg5Upe+wLrFt3bm/1F6xVsnVdTml5MzmAt5oNzLcBj12zgiJZyy6wKBgCz4\nvOai6BPPZTSQQy98MgBFJrTuenmn2ITLSXUb48pvsZP2KGZ7mQ3WTru7Es9Bu4CM\n4CBo6+9Yo0556CQL6cWm2p/ctwyJWqkA3epJumGh+eNMwJJQnQK+PYsBXuEDEo9t\nNU0/HYQQNUZw18u44n3+AIC/wLWxAhBsXt61NzuVAoGAD1I74lWlt9GvOwEVeTKA\n+W9v+Re4NwdWs08tbXEi7rMJQb+u/lpSEPyvY/Y/So/Uc81BIUp764R8XqV5YMqD\nPFK5GTMAWtqY8l4sIjvrhkGwE25XuTXD8YOLW/xvZJmeGHFXikKPRijoEMb5HFFO\nkgr3r1NJNjQOrCN8QVyeeRU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bigquery-spark-service-584@primeval-truth-445016-d4.iam.gserviceaccount.com",
+  "client_id": "114388086254241334634",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bigquery-spark-service-584%40primeval-truth-445016-d4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
